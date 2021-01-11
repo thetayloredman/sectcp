@@ -1,0 +1,32 @@
+{
+  "name": "sectcp",
+  "version": "0.0.0",
+  "description": "A secure TCP wrapper!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetayloredman/sectcp.git"
+  },
+  "keywords": [
+    "tcp",
+    "rsa",
+    "handshake",
+    "security",
+    "net"
+  ],
+  "author": "BadBoyHaloCat",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thetayloredman/sectcp/issues"
+  },
+  "homepage": "https://github.com/thetayloredman/sectcp#readme",
+  "dependencies": {
+    "node-rsa": "^1.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
